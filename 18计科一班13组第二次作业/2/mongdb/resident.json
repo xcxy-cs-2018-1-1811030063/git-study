@@ -1,0 +1,34 @@
+{
+  "RECORDS": [
+    {
+      "_id": "608025c8ce230000a20012fa",
+      "address": "101",
+      "id": "001",
+      "phone number": "123456"
+    },
+    {
+      "_id": "608025d5ce230000a20012fb",
+      "address": "102",
+      "id": "002",
+      "phone number": "254367"
+    },
+    {
+      "_id": "608025e3ce230000a20012fc",
+      "address": "103",
+      "id": "003",
+      "phone number": "312566"
+    },
+    {
+      "_id": "608025f7ce230000a20012fd",
+      "address": "104",
+      "id": "004",
+      "phone number": "446722"
+    },
+    {
+      "_id": "60802602ce230000a20012fe",
+      "address": "105",
+      "id": "005",
+      "phone number": "545773"
+    }
+  ]
+}

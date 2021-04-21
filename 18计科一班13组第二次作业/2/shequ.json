@@ -1,0 +1,103 @@
+ "_id": ObjectId("60801e14ce230000a20012f2"),
+    "service": [
+        {
+            "id": "00001",
+            "name": "aa",
+            "work": "clean",
+            "fee": "60",
+            "salary": "1200",
+            "evaluate": "good"
+        },
+        {
+            "id": "00002",
+            "name": "bb",
+            "work": "clean",
+            "fee": "50",
+            "salary": "1000",
+            "evaluate": "bad"
+        },
+        {
+            "id": "00003",
+            "name": "cc",
+            "work": "fix",
+            "fee": "60",
+            "salary": "1800",
+            "evaluate": "good"
+        },
+        {
+            "id": "00004",
+            "name": "dd",
+            "work": "fix",
+            "fee": "70",
+            "salary": "1400",
+            "evaluate": "bad"
+        },
+        {
+            "id": "00005",
+            "name": "ee",
+            "work": "teach",
+            "fee": "60",
+            "salary": "1200",
+            "evaluate": "good"
+        }
+    ]
+}
+
+// 2
+{
+    "_id": ObjectId("60801f62ce230000a20012f3"),
+    "resident": [
+        {
+            "id": "001",
+            "phone number": "123456",
+            "address": "101"
+        },
+        {
+            "id": "002",
+            "phone number": "254367",
+            "address": "102"
+        },
+        {
+            "id": "003",
+            "phone number": "312566",
+            "address": "103"
+        },
+        {
+            "id": "004",
+            "phone number": "446722",
+            "address": "104"
+        },
+        {
+            "id": "005",
+            "phone number": "545773",
+            "address": "105"
+        }
+    ]
+}
+
+// 3
+{
+    "_id": ObjectId("60802086ce230000a20012f4"),
+    "order": [
+        {
+            "id": "1001",
+            "service_ID": "00001",
+            "resident_ID": "001"
+        },
+        {
+            "id": "1002",
+            "service_ID": "00001",
+            "resident_ID": "002"
+        },
+        {
+            "id": "1003",
+            "service_ID": "00002",
+            "resident_ID": "001"
+        },
+        {
+            "id": "1004",
+            "service_ID": "00003",
+            "resident_ID": "003"
+        }
+    ]
+}
